@@ -1,0 +1,2 @@
+# SS-CDC
+The code provides an example C language based implementation of the idea proposed in the paper "SS-CDC: a two-stage parallel content-defined chunking for deduplicating backup storage". It provides an efficient parallel content-defined chunking (CDC) implementation for deduplication systems with Intel AVX-512 instructions, which can achieve high chunking speed as well as zero deduplication ratio reduction compared to sequential CDC methods.
